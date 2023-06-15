@@ -21,5 +21,8 @@
     "@angular/core": "^16.1.0",
     "@angular/platform-browser-dynamic": "^16.1.0",
     "cypress": "^12.14.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.8"
   }
 }
