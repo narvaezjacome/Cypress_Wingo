@@ -96,8 +96,3 @@
 
 <p>Si encuentras algún problema o tienes alguna pregunta, no dudes en abrir un "Issue" en el repositorio. Haremos todo lo posible por ayudarte.</p>
 
-
-
-<h2>Licencia</h2>
-
-<p>Este proyecto se distribuye bajo la licencia <a href="LICENSE" target="_new">MIT</a>.</p><hr>
